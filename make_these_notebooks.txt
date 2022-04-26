@@ -1,0 +1,18 @@
+1. Linear Regression                   DONE 
+2. Logistic Regresion                  DONE 
+3. KNN                                 DONE 
+4. k-Mean Clustering                   
+5. Decision Tree #
+6. SVM #
+
+
+1. Regression                          DONE 
+2. Polynomial and interaction          
+2. Binary_classification               DONE 
+3. Multiclass_classification #
+4. Text_processing #
+5. Neural_network (CNN) #
+
+
+
+High demand 	signal processing 6000
